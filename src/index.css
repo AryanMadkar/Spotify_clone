@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "poppins",sans-serif;
+    transition: all ease-in 0.3s;
+}
